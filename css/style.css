@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+* {
+    background-color: #012E40;
+    font-family: 'Raleway', sans-serif;
+}
+#h1__titulo {
+    color: #F2E3D5;
+    padding-left: 1em;
+}
+
+#poster {
+    width: 100%;
+    background-position: bottom;
+    background-size: cover;
+}
+
+p {
+    color: azure;
+    padding-left: 2em;
+
+}
+
+h2 {
+    color: azure;
+    padding-left: 1em;
+
+}
+
+.review-score {
+    color: azure;
+    padding-left: 0em;
+
+}
+
+#linkagem {
+    color: aliceblue;
+    padding-left: 2em;
+}
+
+span {
+    padding-left: 3em;
+    color: azure;
+}
